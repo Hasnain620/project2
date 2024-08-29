@@ -1,0 +1,14 @@
+*{
+      padding: 0;
+      margin: 0;
+      font-family: 'Poppins',sans-serif;
+      box-sizing: border-box;
+}
+h1{
+      color: red;
+      background: rgb(176, 153, 112);
+}
+p{
+      color: green;
+      background: rgb(137, 137, 192);
+}
